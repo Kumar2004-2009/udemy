@@ -1,72 +1,54 @@
-# Getting Started with Create React App
+### **📚 E-Learning Platform**  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A **Udemy-like** e-learning platform built using **React.js**, enabling seamless course browsing and navigation.  
+🔗 **Live Demo:** [Visit Site](https://course-craft007.netlify.app/)
 
-## Available Scripts
+---
+## 🚀 Features  
+- 📌 **Course Browsing** – View and explore different courses.  
+- 🎨 **Styled UI** – Designed with **styled-components** for a modern look.  
+- 🔄 **React Router Integration** – Smooth navigation across pages.  
+- 🛠 **Component-Based Architecture** – Easy to scale and maintain.  
+- 📱 **Responsive Design** – Optimized for all screen sizes.  
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🛠 Tech Stack  
+- **Frontend:** React.js, React Router, Styled Components  
+- **Icons:** React Icons  
+- **Testing:** Jest, React Testing Library  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📷 Screenshots  
+![image](https://github.com/user-attachments/assets/c76a8462-e235-4871-ba15-d1f7d456e4ad)
+![image](https://github.com/user-attachments/assets/13ab9ff0-5b21-4b33-b92a-9d93f03d76e5)
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🏗 Installation & Setup  
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/your-username/e-learning-platform.git
+   cd e-learning-platform
+   ```  
+2. **Install dependencies**  
+   ```sh
+   npm install
+   ```  
+3. **Start the development server**  
+   ```sh
+   npm start
+   ```  
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📌 Future Enhancements  
+- 🎥 **Video Player Integration**  
+- 📝 **User Authentication**  
+- ⭐ **Course Rating & Reviews**  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-https://course-craft007.netlify.app/
+## 🤝 Contributing  
+Contributions are welcome! Feel free to open issues or submit pull requests.  
